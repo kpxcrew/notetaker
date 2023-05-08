@@ -39,6 +39,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 Utilizing the application is simple!
 Just Click the Link!
+https://davenotetaker.herokuapp.com/
 
 ## Credit
 EDX for given code
